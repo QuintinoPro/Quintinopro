@@ -3,7 +3,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-quintino-69868620b/)
 
-![QuintinoPro GitHub stats](https://github-readme-stats.vercel.app/api?username=QuintinoPro&show_icons=true&theme=merko)
+<div>
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=QuintinoPro&show_icons=true&theme=merko">
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintinoPro&layout=donut">
+</div>
 
 ## Tecnologias Utilizadas: 
 <div style="display: inline_block">
