@@ -31,6 +31,8 @@ liderança, suporte técnico e resolução de problemas.
 
 ## Estatísticas:
 <div>
-<img height= "200cm" src="https://github-readme-stats.vercel.app/api?username=QuintinoPro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
-<img height= "200cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=QuintinoPro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+<img height= "222cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=QuintinoPro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+<img height= "222cm" src="https://github-readme-stats.vercel.app/api?username=QuintinoPro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
+
+
