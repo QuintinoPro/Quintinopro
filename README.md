@@ -28,7 +28,7 @@
 ## 👋 Sobre mim
 
 Empreendedor e estrategista de marketing com atuação no ecossistema de **Blockchain e Tecnologia**.  
-Atualmente **Analista de Marketing no Blockchain RIO** e **Fundador da [Stocks](https://stocksit.com.br/)**, lidero projetos que conectam posicionamento, dados e crescimento real.
+Atualmente **Analista de Marketing no Blockchain RIO** e **Fundador da [Stocks](https://agenciastocks.com/)**, lidero projetos que conectam posicionamento, dados e crescimento real.
 
 Especialista em construção de marca, estruturação de funis, campanhas de performance e geração de negócios **B2B**, unindo inteligência analítica, tecnologia e visão estratégica para escalar empresas e fortalecer ecossistemas.
 
@@ -41,7 +41,7 @@ Especialista em construção de marca, estruturação de funis, campanhas de per
 | Cargo | Empresa |
 |---|---|
 | 📊 Analista de Marketing | **Blockchain RIO** |
-| 🚀 Fundador | **Stocks — stocksit.com.br** |
+| 🚀 Fundador | **Stocks — agenciastocks.com** |
 
 ---
 
@@ -95,10 +95,7 @@ Especialista em construção de marca, estruturação de funis, campanhas de per
 
 ## 📈 Estatísticas
 
-<div align="center">
-  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=QuintinoPro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=QuintinoPro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuintinoPro&theme=highcontrast&background=000&border=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=30A3DC"/>
