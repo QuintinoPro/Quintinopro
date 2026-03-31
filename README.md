@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@quintinopro">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://stocksit.com.br/">
+  <a href="https://agenciastocks.com/">
     <img src="https://img.shields.io/badge/StocksIt-000000?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
 </div>
